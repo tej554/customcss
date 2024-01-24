@@ -217,7 +217,7 @@
   -moz-filter: blur(0px);
   -o-filter: blur(0px);
   -ms-filter: blur(0px);
-  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='5');
+  filter: progid:DXImageTransform.Microsoft.Blur(PixelRadius='0');
   /* IE lte 9 */ }
 
 /* Currently only used with PIN modal */
